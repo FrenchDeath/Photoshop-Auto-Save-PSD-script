@@ -21,7 +21,7 @@ This comes in handy if you feel like doing something new. Just press the shortcu
 
 ## Things you should know
 
-* The script has been tested in Photoshop cs3 and cs6 in Mac os x 10.8.3
+* The script has been tested in Photoshop CS6 Windows
 * A document needs to be open for the script to do anything.
 * Depending on the situation you might want to save a new file by using the script, so that the very first save will also be saved separately.
 * The script will find the required Photoshop Action (`Auto Save PSD.atn`) automatically when needed, as long as you've added it into photoshop.
